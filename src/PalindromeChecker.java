@@ -1,5 +1,4 @@
 public class PalindromeChecker {
-    public static void main(String args[]){
         public static void main(String[] args) {
             String word = "madam";
             String reversed = "";
@@ -14,4 +13,3 @@ public class PalindromeChecker {
         }
 
     }
-}
